@@ -6,7 +6,7 @@
 
 <img src="https://i.pinimg.com/originals/15/8c/e8/158ce88cc8138f4078e7eac1212f1976.jpg" alt="Coding" width="500"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaimon-ghanizoda-874253348/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sulaimon_du)
 
 </div>
